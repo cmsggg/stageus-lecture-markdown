@@ -13,4 +13,4 @@
 
 [네이버](https://www.naver.com)
 
-![image not found][./src/index.jpg]
+![image not found](./src/index.jpg)
