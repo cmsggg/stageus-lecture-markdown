@@ -11,4 +11,4 @@
 3. 세 번째
 - 세 번째의 첫 번째 항목
 
-[네이버] https://www.naver.com
+[네이버] [https://www.naver.com]
