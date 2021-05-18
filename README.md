@@ -12,3 +12,5 @@
 - 세 번째의 첫 번째 항목
 
 [네이버](https://www.naver.com)
+
+! [image not found][./src/index.jpg]
