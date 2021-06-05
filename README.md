@@ -1,4 +1,4 @@
-\<h1\> ~ \<h6\> 문법  
+\<h1\> ~ \<h6\> 문법
 # stageus
 ## stageus
 ### stageus
