@@ -1,4 +1,4 @@
-<h1> ~ <h6> 문법
+# <h1> ~ <h6> 문법
 # stageus
 ## stageus
 ### stageus
@@ -6,7 +6,7 @@
 ##### stageus
 ###### stageus
 
-<b> <i> <del> <ins>
+# <b> <i> <del> <ins>
 볼드체 : **볼드체** 입니다.  
 이텔릭체 : *이텔릭체* 입니다.  
 취소선 : ~~취소선~~ 입니다.
