@@ -52,10 +52,10 @@
 \<code\> 문법
 
 ```python
-print("hello")
-print("world")
+print("Add Calculator")
 a = 10
-print(a)
+b = 20
+print(a+b)
 ```
 
 ```html
