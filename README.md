@@ -44,6 +44,14 @@
 
 # \<a\> 문법
 
+### 방버
+
+```text
+[네이버](https://www.naver.com)
+```
+
+### 결과
+
 [네이버](https://www.naver.com)
 
 ------------------------------------------------------
@@ -119,12 +127,12 @@
 ### 방법
 
 ```text 
-\`\`\`python
+```python
 print("Add Calculator")
 a = 10
 b = 20
 print(a+b)
-\`\`\`
+```
 ```
 
 ### 결과
@@ -139,7 +147,7 @@ print(a+b)
 ### 방법
 
 ```text
-\`\`\`html
+```html
 <div>
   <h1>title</h1>
   <div>
@@ -147,7 +155,7 @@ print(a+b)
     <p>contents 2</p>
   </div>
 </div>
-\`\`\`
+```
 ```
 
 ### 결과
