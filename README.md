@@ -1,5 +1,7 @@
 # \<h1\> ~ \<h6\> 문법
 
+### 방법
+
 ```text
 # stageus
 ## stageus
@@ -8,6 +10,8 @@
 ##### stageus
 ###### stageus
 ```
+
+### 결과
 
 # stageus
 ## stageus
